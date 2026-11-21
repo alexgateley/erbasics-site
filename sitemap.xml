@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://erbasics.com/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://erbasics.com/support.html</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://erbasics.com/privacy.html</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://erbasics.com/accessibility.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://erbasics.com/accessibility.html</loc></url>
+  <url><loc>https://erbasics.com/</loc></url>
+  <url><loc>https://erbasics.com/privacy.html</loc></url>
+  <url><loc>https://erbasics.com/support.html</loc></url>
+  <url><loc>https://erbasics.com/app/</loc></url>
+  <url><loc>https://erbasics.com/sheets/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://erbasics.com/practice/</loc></url>
+  <url><loc>https://erbasics.com/practice/cen.html</loc></url>
+  <url><loc>https://erbasics.com/practice/acls.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-cardiovascular.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-respiratory.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-neurological.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-gastrointestinal.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-gu-gyn-ob.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-mental-health.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-medical.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-musculoskeletal-wound.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-heent.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-environment-toxicology.html</loc></url>
+  <url><loc>https://erbasics.com/practice-questions/cen-professional-issues.html</loc></url>
+  <url><loc>https://erbasics.com/reference/</loc></url>
+  <url><loc>https://erbasics.com/drugs/</loc></url>
+  <url><loc>https://erbasics.com/drips/</loc></url>
+  <url><loc>https://erbasics.com/calculators/</loc></url>
+  <url><loc>https://erbasics.com/algorithms/</loc></url>
+  <url><loc>https://erbasics.com/labs/</loc></url>
+  <url><loc>https://erbasics.com/cards/</loc></url>
 </urlset>

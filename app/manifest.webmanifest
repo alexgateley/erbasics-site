@@ -1,0 +1,34 @@
+{
+  "id": "./",
+  "name": "ER Basics",
+  "short_name": "ER Basics",
+  "description": "Free CEN practice questions for emergency nurses, plus ACLS, with rationales and full-length mock exams, in your browser. No account, no ads.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#140F08",
+  "background_color": "#140F08",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.alex.erbasics",
+      "id": "com.alex.erbasics"
+    }
+  ],
+  "prefer_related_applications": false
+}
